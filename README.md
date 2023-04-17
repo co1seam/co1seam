@@ -1,4 +1,6 @@
 <img src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=1290EB&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
+
 
 <!--
 **kostya2288/kostya2288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
