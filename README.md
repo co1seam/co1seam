@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
 <!--
 **kostya2288/kostya2288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
