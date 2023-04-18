@@ -1,5 +1,5 @@
 <img src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 
 
 <!--
