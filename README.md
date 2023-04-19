@@ -1,10 +1,10 @@
-<img src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
-<h1 align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></h1>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img align="center" src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
+<img src="/github-metrics.svg" alt="Metrics" width="400">
+<h1 align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C Sharp">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></h1>
 
 
 <!--
