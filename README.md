@@ -1,5 +1,5 @@
 <img src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<h1 align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></h1>
 <h1 align="center"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></h1>
 
 <!--
