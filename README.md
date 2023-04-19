@@ -3,7 +3,11 @@
 <p class="aligncenter">
   <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></h1>
 </p>
-
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 <!--
 **kostya2288/kostya2288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
