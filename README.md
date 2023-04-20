@@ -1,6 +1,5 @@
 <img align="center" src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
 <img src="/github-metrics.svg" alt="Metrics" width="400">
-- ![#A8B9CC](https://github.com/co1seam/co1seam/blob/main/c.svg) `#f03c15`
 
 
 <!--
