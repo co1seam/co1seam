@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/kostya2288/kostya2288/blob/main/header.png" alt="альтернативный текст">
 <img src="/github-metrics.svg" alt="Metrics" width="400">
 <div id="badges" align="center">
   
