@@ -3,6 +3,9 @@
   
 </div>
 
+<!-- Разделитель -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=konstantin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
 ### 🧰 Мой стек технологий
 
 <p align="left">
