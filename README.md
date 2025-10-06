@@ -9,7 +9,7 @@ I'm a Backend Developer with a passion for building robust and scalable microser
 I'm currently working on a pet-project for a cloud storage service, honing my skills outside of my commercial work.
 
 - 🔭 I’m currently working on my **cloud storage pet-project**.
-- 🌱 I’m currently learning **Vim** and actively trying to find my way out of it. (If you know how to help me, please reach out!)
+- 🌱 I’m currently learning **Vim**.
 - 💼 I’m open to collaborating on interesting **Open Source** projects.
 - 💬 Ask me about **Go, backend architecture, databases, or microservices**.
 
