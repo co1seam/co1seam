@@ -3,6 +3,10 @@
   
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=500&height=50&duration=4000&color=4493F8&lines=Привет,+я+Константин!👋; Backend+Developer+on+Go;" />
+</h1>
+
 <!-- Разделитель -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=konstantin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
