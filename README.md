@@ -1,11 +1,48 @@
-<img src="/github-metrics.svg" alt="Metrics" width="400">
-<div id="badges" align="center">
-  
-</div>
+# Hello there! I'm Konstantin 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=500&height=50&duration=4000&color=4493F8&lines=Привет,+я+Константин!👋; Backend+Developer+on+Go;" />
-</h1>
+**Backend Developer | Go (Golang) Enthusiast | Microservices & Databases**
+
+### 🚀 About Me
+
+I'm a Backend Developer with a passion for building robust and scalable microservices architecture. I thrive on designing clean system layouts and data structures, and have a deep interest in databases, neural networks, computer networks, and DevOps practices.
+
+I'm currently working on a pet-project for a cloud storage service, honing my skills outside of my commercial work.
+
+- 🔭 I’m currently working on my **cloud storage pet-project**.
+- 🌱 I’m currently learning **Vim** and actively trying to find my way out of it. (If you know how to help me, please reach out!)
+- 💼 I’m open to collaborating on interesting **Open Source** projects.
+- 💬 Ask me about **Go, backend architecture, databases, or microservices**.
+
+### 🛠 Tech Stack
+
+Here are the main technologies I work with:
+
+*   **Languages:** Go, TypeScript, Bash
+*   **Databases:** PostgreSQL
+*   **API & Communication:** Protobuf/gRPC
+*   **Tools & Other:** Git, Docker, Linux
+
+### 📊 Статистика на GitHub
+
+<!-- Статистика и трофеи -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=konstantin&show_icons=true&theme=transparent&count_private=true&hide_border=true&rank_icon=github" alt="Статистика GitHub" width="100%">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantin&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Наиболее используемые языки" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konstantin&theme=transparent&hide_border=true&background=20232a" alt="Стрик коммитов" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=konstantin&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=4" alt="Трофеи GitHub" width="100%">
+</p>
 
 <!-- Разделитель -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=konstantin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
