@@ -1,4 +1,4 @@
-# Hello there! I'm Konstantin 👋
+# Hello there 👋
 
 **Backend Developer | Go (Golang) Enthusiast | Microservices & Databases**
 
